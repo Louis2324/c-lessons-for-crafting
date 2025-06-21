@@ -1,0 +1,3 @@
+In this lesson I learnt about the flow control structure in c
+The way it doesn't pass by reference though just theoretically learnt it passes by something called pointers 
+And has a bunch of reserved keywords 
