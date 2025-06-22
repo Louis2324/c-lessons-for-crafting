@@ -6,6 +6,7 @@ double func(double x) {
 }
 
 double derivative(double (*f)(double) , double x){
+    //specifying that the function takes a double input and returns a double output
     double h = 1e-6;
     return (f(x+h)-f(x))/h;
 }
